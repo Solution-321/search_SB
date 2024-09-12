@@ -1,0 +1,5 @@
+package com.searchfeature.service.impl;
+
+public class ProductServiceImpl {
+
+}
